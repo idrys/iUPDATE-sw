@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2017\Projects\iUPDATE-sw\iUPDATE-sw\bin\Debug\iUPDATE-sw.exe.config
+c:\users\admin\documents\visual studio 2017\Projects\iUPDATE-sw\iUPDATE-sw\bin\Debug\iUPDATE-sw.exe
+c:\users\admin\documents\visual studio 2017\Projects\iUPDATE-sw\iUPDATE-sw\bin\Debug\iUPDATE-sw.pdb
+c:\users\admin\documents\visual studio 2017\Projects\iUPDATE-sw\iUPDATE-sw\obj\Debug\iUPDATE-sw.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2017\Projects\iUPDATE-sw\iUPDATE-sw\obj\Debug\iUPDATE_sw.Form1.resources
+c:\users\admin\documents\visual studio 2017\Projects\iUPDATE-sw\iUPDATE-sw\obj\Debug\iUPDATE_sw.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2017\Projects\iUPDATE-sw\iUPDATE-sw\obj\Debug\iUPDATE-sw.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2017\Projects\iUPDATE-sw\iUPDATE-sw\obj\Debug\iUPDATE-sw.exe
+c:\users\admin\documents\visual studio 2017\Projects\iUPDATE-sw\iUPDATE-sw\obj\Debug\iUPDATE-sw.pdb
